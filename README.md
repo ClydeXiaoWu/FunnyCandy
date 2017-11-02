@@ -1,0 +1,2 @@
+# FunnyCandy
+My new repository
